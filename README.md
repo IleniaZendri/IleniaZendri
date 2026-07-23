@@ -80,13 +80,13 @@ Badges made with https://shields.io/
  
 ![Financial Risk Manager - Part 1 Candidate](https://img.shields.io/badge/Financial_Risk_Manager_Part_1_Candidate-002E5D.svg?style=for-the-badge&logo=readthedocs&logoColor=white)
 
-![Commodity Trading Risk Analyst - SUISSENÉGOCE](https://img.shields.io/badge/Commodity_Trading_Risk_Analyst_—_SUISSÉNEGOCE-C8102E.svg?style=for-the-badge&logo=verifiedbadge&logoColor=white)
+![Commodity Trading Risk Analyst - SUISSENÉGOCE](https://img.shields.io/badge/Commodity_Trading_Risk_Analyst_—_SUISSÉNEGOCE-002E5D.svg?style=for-the-badge&logo=verifiedbadge&logoColor=white)
 
-![Commodity Trading Specialist](https://img.shields.io/badge/Commodity_Trading_Specialist_—_LCTA-1F4E79.svg?style=for-the-badge&logo=verifiedbadge&logoColor=white)
+![Commodity Trading Specialist](https://img.shields.io/badge/Commodity_Trading_Specialist_—_LCTA-002E5D.svg?style=for-the-badge&logo=verifiedbadge&logoColor=white)
 
-![MSc Banking and Finance](https://img.shields.io/badge/MSc_Banking_%26_Finance-003366.svg?style=for-the-badge&logo=googlescholar&logoColor=white)
+![MSc Banking and Finance](https://img.shields.io/badge/MSc_Banking_%26_Finance-002E5D.svg?style=for-the-badge&logo=googlescholar&logoColor=white)
 
-![BSc Computer Science](https://img.shields.io/badge/BSc_Computer_Science-800020.svg?style=for-the-badge&logo=googlescholar&logoColor=white)
+![BSc Computer Science](https://img.shields.io/badge/BSc_Computer_Science-002E5D.svg?style=for-the-badge&logo=googlescholar&logoColor=white)
  
 ----------
  
